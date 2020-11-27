@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-yahoo-connect",
+  "version": "1.0.0",
+  "description": "Cordova Plugin Yahoo! JP Connect ======",
+  "cordova": {
+    "id": "cordova-plugin-yahoo-connect",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "MIT"
+}
